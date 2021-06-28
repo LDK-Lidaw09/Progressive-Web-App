@@ -1,0 +1,33 @@
+/** Home Screen */
+.homePage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Pacifico";
+  overflow: hidden;
+  background-image: linear-gradient(to top right, #000008, #0008),
+  url("/images/img1.jpg");
+  height: 100vh;
+  /*background-image: linear-gradient(to top right,#000008,#1d2724  ), url('/images/img1.jpg');*/
+  background-size: 100% 100%, cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+/*** Content Screen */
+.homePage-container {
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.homePage-text {
+  font-family: "Pacifico";
+}
+
+
+
+
+

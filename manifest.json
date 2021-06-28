@@ -1,0 +1,29 @@
+{
+    "name": "Helay reservation",
+    "short_name": "Hotel",
+    "start_url": "index.html",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/images/icones/icon72.png",
+        "type": "image/png", 
+        "sizes": "72x72"
+      },
+      {
+        "src": "../images/icones/icon96.png",
+        "type": "image/png", 
+        "sizes": "96x96"
+      },
+      {
+        "src": "/images/icones/icon144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/images/icones/icon192.png",
+        "type": "image/png", 
+        "sizes": "192x192"
+      }
+      
+    ]
+  }

@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^/?register$   inscription.php [PT]
+RewriteRule ^/?users$      utilisateur.php [PT]
